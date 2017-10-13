@@ -9,5 +9,5 @@ for a in range(5,0,-1):
         print(" ",end="")
     for j in range(6-a):
         print(" *",end="")
-    print()
+    print("測試成功")
 
