@@ -1,4 +1,10 @@
-# Hello-World
-this is my project
--------------
-1233211234567.
+# Hello-YENTECH CSIE
+this is an practice
+-------------------
+Please use the test.ipynb to show a "*" X'mas tree on the screen
+shch like fellowing：
+*
+**
+***
+****
+*****
